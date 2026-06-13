@@ -15,4 +15,4 @@ A simple Random Quote Generator developed for the CodeAlpha App Development Inte
 - JavaScript
 
 ## Author
-Susheel Sushanth
+Susheel kumar
